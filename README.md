@@ -1,4 +1,4 @@
-# Three.js ES6 Parcel Starter Project
+# Three.js ES6 Parcel Starter Project 🎉
 
 Boilerplate project for quickly getting up and running a Three.js project.
 
