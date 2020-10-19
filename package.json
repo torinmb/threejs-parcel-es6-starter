@@ -1,0 +1,28 @@
+{
+  "name": "threejs-parcel-es6-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "author": "Torin Blankensmith",
+  "license": "Apache-2.0",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@gltf-transform/core": "^0.7.4",
+    "@gltf-transform/lib": "^0.7.4",
+    "animejs": "^3.2.1",
+    "dat.gui": "^0.7.7",
+    "stats.js": "^0.17.0",
+    "three": "^0.121.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-glsl": "^0.1.0",
+    "parcel-plugin-json-url-loader": "^0.1.2",
+    "parcel-plugin-static-files-copy": "^2.5.0"
+  }
+}
