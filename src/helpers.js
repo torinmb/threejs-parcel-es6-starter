@@ -4,8 +4,12 @@ import {
 
 
 export let params = {
-  testParam : 0.00001,
+  mixShape: 0.0,
+  sdfSize : 5,
+  sdfScale : 5,
+  boundingSphere : 5,
 };
+
 
 export function promisifyLoader ( loader, onProgress ) {
     function promiseLoader ( url ) {

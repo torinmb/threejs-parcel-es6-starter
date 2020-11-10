@@ -14,8 +14,9 @@
     "@gltf-transform/lib": "^0.7.4",
     "animejs": "^3.2.1",
     "dat.gui": "^0.7.7",
+    "shader-park-core": "https://github.com/shader-park/shader-park-core.git",
     "stats.js": "^0.17.0",
-    "three": "^0.121.1"
+    "three": "^0.122.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",
